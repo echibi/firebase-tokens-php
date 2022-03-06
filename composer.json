@@ -18,14 +18,13 @@
         "fig/http-message-util": "^1.1.5",
         "guzzlehttp/guzzle": "^7.0",
         "beste/clock": "^1.0",
-        "lcobucci/jwt": "^4.1.5",
+        "firebase/php-jwt": "^5.5",
         "psr/cache": "^1.0|^2.0|^3.0"
     },
     "suggest": {
         "psr/cache-implementation": "to cache fetched remote public keys"
     },
     "require-dev": {
-        "firebase/php-jwt": "^5.5",
         "friendsofphp/php-cs-fixer": "^3.4",
         "phpstan/extension-installer": "^1.1",
         "phpstan/phpstan": "^1.2",
